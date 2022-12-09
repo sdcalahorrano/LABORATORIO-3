@@ -1,8 +1,10 @@
--Aguirre Johan
+# LABORATORIO 3
 
--Calahorrano Sarahi
+- Aguirre Johan
 
--Lara Melany
+- Calahorrano Sarahi
+
+- Lara Melany
 
 1. OBEJTIVOS
 
